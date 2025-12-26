@@ -176,7 +176,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 | Section| Topics | Sub-Topics | Use Case | Tech Stack & Links |
 | --- | --- | --- | --- | --- |
-| A | Agentic AI & Gen AI | 1. Agentic AI & MCP - 2. Gen AI, RAG, LLM - 3. AIOps, LLMops using AWS services - 4. UI/UX → Streamlit, ReactJS | - | -|
+| A | Agentic AI & Gen AI | 1. Agentic AI & MCP - 2. Gen AI, RAG, LLM - 3. AIOps,LLMops using AWS services - 4. UI/UX → Streamlit, ReactJS | - | -|
 
 ---
 

@@ -163,6 +163,14 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ---
+## 🎓 Education
+
+| Duration | Institute | Degree & Specialization | GPA / CGPA | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Aug 2022 - 2024** | **Woolf University** | **Master of Science (MS)**<br>Computer Science: AI & Machine Learning | **4.0 / 4.0** | [College](https://woolf.university) \| [Degree](#) \| [Description](#) |
+| **Jul 2016 - 2020** | **Guru Nanak Dev Engineering College** | **Bachelor of Technology (B.Tech)**<br>Information Technology | **7.34 / 10.0** | [College](https://gndec.ac.in) \| [Degree](#) |
+
+---
 
 ## :bangbang: &nbsp; Professional Experience 
 

@@ -330,7 +330,7 @@ End-to-end big data pipeline with orchestration
 
 <div align="center">
   
-  ![Trophies](<img src="https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&column=7"/>)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
   
 </div>
 
@@ -427,5 +427,6 @@ print(me.get_status())
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+  
 </div>
 

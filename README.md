@@ -382,7 +382,7 @@ End-to-end big data pipeline with orchestration
 ```python
 class CurrentFocus:
     def __init__(self):
-        self.learning = ["Advanced Computer Vision", "LLM Fine-tuning", "MLOps"]
+        self.learning = ["Agentic AI","MCP Server/Client","GeN AI /RAG/LLM","NLP","Advanced Computer Vision", "LLM Fine-tuning", "MLOps/AIOps/LLMOps", "Machione Learing"]
         self.building = ["AI-Powered Applications", "Real-time Systems"]
         self.exploring = ["Generative AI", "Edge AI", "Federated Learning"]
         self.open_to = ["Collaborations", "Open Source", "Job Opportunities"]
@@ -396,11 +396,11 @@ print(me.get_status())
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025-2026 Goals
 
-- [ ] Contribute to 10+ open-source AI projects
+- [ ] Contribute to 40+ open-source AI projects
 - [ ] Publish research papers on Computer Vision
-- [ ] Build and deploy 5 production-ready AI applications
+- [ ] Build and deploy 30+ production-ready AI applications
 - [ ] Mentor 50+ aspiring AI/ML engineers
 - [ ] Master advanced LLM architectures and deployment
 

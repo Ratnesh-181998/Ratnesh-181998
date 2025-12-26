@@ -274,10 +274,10 @@ End-to-end big data pipeline with orchestration
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnesh-181998&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=4FACFE&text_color=E6EDF3)
+  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnesh-181998&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=4FACFE&text_color=E6EDF3)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh-181998&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3)
-  
+   -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
   
 </div>

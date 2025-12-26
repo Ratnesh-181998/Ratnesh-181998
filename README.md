@@ -1,12 +1,12 @@
-## 👋 Hi, I'm Ratnesh Kumar
+## 👋 Hi, I'm Ratnesh Kumar Singh
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blueviolet&style=for-the-badge)
   
-  **Data Scientist | AI/ML Engineer | GenAI Specialist**
+  **Data Scientist | AI/ML Engineer | GenAI/Agentic AI Specialist**
   
-  🇮🇳 India | 💼 4+ Years Experience | 🚀 Building Production-Grade AI Systems
+  🇮🇳 India | 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
@@ -24,7 +24,7 @@
 🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning and Generative AI solutions at scale**. Experienced in:
 
 - 📊 Handling **1PB+ large datasets** and developing real-time data pipelines
-- 🚀 Delivering **production-grade AI systems** across cloud environments
+- 🚀 Delivering **production-grade AI/ML/GenAI/Agentic AI systems** across cloud environments
 - 🤖 Building **GenAI LLM-based chatbots**, vector search systems, and secure, scalable enterprise applications
 - 🔧 API development & integration, automation, and data engineering workflows
 - 📈 Breaking down complex problems, optimizing model performance, and driving measurable business outcomes
@@ -35,7 +35,7 @@
 ✅ Expertise in **Computer Vision, Text Analytics**, and business value analysis  
 ✅ Strong background in **algorithm design, model evaluation, error analysis**  
 ✅ Successfully handled **petabyte-scale (1PB+) data** in real-world environments  
-✅ Deployed **ML & GenAI models into production** in collaboration with engineering teams
+✅ Deployed **ML/DL/CV/NLP/GenAI/Agentic AI models into production** in collaboration with engineering teams
 
 ---
 

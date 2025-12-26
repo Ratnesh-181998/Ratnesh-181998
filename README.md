@@ -158,7 +158,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ## 🚀 Featured Projects & Live Demos
 
-<div align="center">
+<div >
   
   ### � [View All My Streamlit Apps](https://share.streamlit.io/user/ratnesh-181998)
   

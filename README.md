@@ -324,7 +324,7 @@ End-to-end big data pipeline with orchestration
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+  ![Trophies](<img src="https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&column=7" />)
   
 </div>
 

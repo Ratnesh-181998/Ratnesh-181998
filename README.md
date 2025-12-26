@@ -149,6 +149,13 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 
 **Tools:** AWS Ecosystem • MLFlow • Docker & DockerHub • Jenkins • Git/GitHub • GitLab • CI/CD • Streamlit • Pytest • Jira
 
+### 📐 ML/DL & Data System Design
+[System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=uml&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-4285F4?style=for-the-badge&logo=architect&logoColor=white)
+
+**Concepts:** High Level Design (HLD) • Low Level Design (LLD) • Scalability • CAP Theorem • Sharding • Caching • Load Balancing
+
 ### 🌐 API Development & Integration
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)

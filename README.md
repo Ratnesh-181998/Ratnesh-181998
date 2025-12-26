@@ -310,8 +310,13 @@ End-to-end big data pipeline with orchestration
 ### 🎓 Learning Platforms
 [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 [![Woolf University](https://img.shields.io/badge/Woolf_University-4A90E2?style=for-the-badge&logo=university&logoColor=white)](https://woolf.university/id/3625948911)
+[![Krish Naik](https://img.shields.io/badge/Krish_Naik_Live_Classes-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.krishnaik.in/liveclasses)
+[![GrowDataSkills](https://img.shields.io/badge/GrowDataSkills-22C55E?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.growdataskills.com/)
 
 ### ☁️ Cloud Platforms
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ratnesh-kumars-projects-ad9ae7f2)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/docs/guides/database/connecting-to-postgres)

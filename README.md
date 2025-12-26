@@ -4,7 +4,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blueviolet&style=for-the-badge)
   
-  **Data Scientist | AI/ML Engineer | GenAI/Agentic AI Specialist**
+  **Data Scientist | AI/ML Engineer | GeN AI | Agentic AI Specialist**
   
   🇮🇳 India | 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
   

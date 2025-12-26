@@ -183,7 +183,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | **D** | **Data Analyst & Core** | 1.Python & Libraries (NumPy, Pandas, EDA)<br>3. Dashboard tools (Power BI, Tableau, Excel) | - | - |
 | **E** | **Data Engineering** | 1. Big Data (Spark, Hadoop, Airflow, Kafka, ETL)<br>2. Data Warehouse & Databases (SQL, NoSQL, Snowflake)<br>3. AWS Services | - | - |
 | **F** | **ML and data engineering system design** | 1. High Level (HLD) & Low Level Design (LLD)<br>2. Scalability & Reliability (CAP, Load Balancing)<br>3. Distributed Systems & Microservices<br>4. Database Design (Sharding, Caching) | - | - |
-| **G** | **Competitive Programming-Data Structure & Algorithms** | 1.Algorithms<br>2.Data Structure  | - | - |
+| **G** | **Competitive Programming** | 1.Algorithms<br>2.Data Structures  | - | - |
 
 
 ---

@@ -285,7 +285,7 @@ End-to-end big data pipeline with orchestration
 
 ## � Technical Social Profiles
 
-<div align="center">
+<div>
 
 ### 💼 Professional Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)

@@ -331,6 +331,9 @@ End-to-end big data pipeline with orchestration
 <div align="center">
   
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  <!-- Trophies (Temporarily disabled due to service outage)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  -->
   
 </div>
 
@@ -417,8 +420,7 @@ print(me.get_status())
   
   ### 🌟 "The best way to predict the future is to invent it." - Alan Kay
   
-  ![Visitor Count](https://profile-counter.glitch.me/Ratnesh-181998/count.svg)
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRatnesh-181998&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+   ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRatnesh-181998&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
   **Thanks for visiting! Let's build something amazing together! 🚀**
   

@@ -164,6 +164,22 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ---
 
+## :bangbang: &nbsp; Experience 
+| When | What | Links |
+| --- | --- | --- |
+| Dec 2022- Dec 2025 | Data Scientist (AI/ML Engineer) @TCS -- AI/ML Use Case's | [[Il Sole 24 Ore]](https://www.ilsole24ore.com/art/michele-catasta-l-italiano-vertici-dell-ai-l-idea-far-scrivere-software-macchine-AHZiYAiC) - [[la Repubblica]](https://www.repubblica.it/tecnologia/2025/11/29/news/beautiful_monds_michele_catasta_papa_del_vibe_coding_programmando_con_le__vibrazioni__l_idea_torna_al_centro-425010924/) - [[Fortune Italia]](https://www.fortuneita.com/2025/09/13/il-segreto-delle-app-fai-da-te/) |
+| Dec 2021- Dec 2022 | Data Engineer & Analyst @TCS -- Data Engineering AWS Stack, Business Intelligence & Dashboard Report's | [[Il Sole 24 Ore]](https://www.ilsole24ore.com/art/michele-catasta-l-italiano-vertici-dell-ai-l-idea-far-scrivere-software-macchine-AHZiYAiC) - [[la Repubblica]](https://www.repubblica.it/tecnologia/2025/11/29/news/beautiful_monds_michele_catasta_papa_del_vibe_coding_programmando_con_le__vibrazioni__l_idea_torna_al_centro-425010924/) - [[Fortune Italia]](https://www.fortuneita.com/2025/09/13/il-segreto-delle-app-fai-da-te/) |
+
+---
+
+## :bangbang: &nbsp; Full Stack Data Scientist (AI /ML/Gen AI/ Agentic AI Engineer)
+
+| Topics | Sub-Topics | Use Case | Tech Stack & Links |
+| --- | --- | --- | --- |
+| Dec 2022- Dec 2025 || Dec 2022- Dec 2025 || Dec 2022- Dec 2025 || Dec 2022- Dec 2025 |
+
+---
+
 ## 🚀 Featured Projects & Live Demos
 
 <div >

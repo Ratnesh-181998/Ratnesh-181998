@@ -324,7 +324,7 @@ End-to-end big data pipeline with orchestration
 
 <div align="center">
   
-  ![Trophies](<img src="https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&column=7" />)
+  ![Trophies](<img src="https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&column=7"/>)
   
 </div>
 
@@ -382,7 +382,8 @@ End-to-end big data pipeline with orchestration
 ```python
 class CurrentFocus:
     def __init__(self):
-        self.learning = ["Agentic AI","MCP Server/Client","GeN AI /RAG/LLM","NLP","Advanced Computer Vision", "LLM Fine-tuning", "MLOps/AIOps/LLMOps", "Machione Learing"]
+        self.learning = ["Agentic AI","MCP Server/Client","GenAI/RAG/LLM","NLP"]
+        self.learning = ["Advanced Computer Vision", "LLM Fine-tuning", "MLOps/AIOps/LLMOps","Machione Learing"]
         self.building = ["AI-Powered Applications", "Real-time Systems"]
         self.exploring = ["Generative AI", "Edge AI", "Federated Learning"]
         self.open_to = ["Collaborations", "Open Source", "Job Opportunities"]

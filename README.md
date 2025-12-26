@@ -187,7 +187,15 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | **E** | **Data Engineering** | 1. Big Data (Spark, Hadoop, Airflow, Kafka, ETL)<br>2. Data Warehouse & Databases (SQL, NoSQL, Snowflake)<br>3. AWS Services | - | - | - |
 | **F** | **ML and data engineering system design** | **1.High Level (HLD) & Low Level Design (LLD)** <br>&nbsp;&nbsp;•Every robust ML system (like a Recommendation Engine or Fraud Detection system) starts here. <br>&nbsp;&nbsp;•Need HLD to map out how data flows from ingestion to training to inference, and LLD to design the specific APIs and database schemas.<br>**2. Scalability & Reliability (CAP, Load Balancing)** <br>&nbsp;&nbsp;•Data Engineering deals with massive scale (Petabytes). <br>&nbsp;&nbsp;•Understand how to scale horizontally (adding more servers) and ensure the system doesn't crash (Reliability/Load Balancing) when thousands of users hit your model.<br>**3.Distributed Systems & Microservices** <br>&nbsp;&nbsp;•Big data tools (Spark, Kafka) are distributed systems. <br>&nbsp;&nbsp;•Also, modern ML apps are built as microservices (e.g., one service for data processing, one for the model, one for the UI) rather than one giant app.<br>**4.Database Design (Sharding, Caching)**: <br>&nbsp;&nbsp;•**Sharding-** Essential when your data is too big for one database (common in Data Engineering). <br>&nbsp;&nbsp;•**Caching-** Essential for low-latency ML inference (e.g., storing pre-calculated features in Redis so your model answers instantly).| - | - | - |
 | **G** | **Competitive Programming** | 1.Algorithms<br>2.Data Structures  | - | - | - |
-
+---
+| Section | Topics | Sub-Topics | Project Details & Links |
+| :---: | :--- | :--- | :--- |
+| **A** | **Agentic AI & Gen AI** | 1. Agentic AI & MCP<br>2. Gen AI, RAG, LLM<br>3. AIOps, LLMops using AWS services<br>4. UI/UX → Streamlit, ReactJS | 1. **Agentic AI Trip Planner (CrewAI)**<br>&nbsp;&nbsp;• [Detail](#) • [Tech Stack](#) • [Live Demo](#)<br><br>2. **Universal PDF RAG Chatbot**<br>&nbsp;&nbsp;• [Detail](#) • [Tech Stack](#) • [Live Demo](#) |
+| **B** | **Deep Learning** | 1. Neural Networks<br>2. Computer Vision<br>3. NLP (Natural Language Processing)<br>4. Transformer | - |
+| **C** | **Machine Learning** | 1. Maths for ML (Probability, Stats, Algebra, Calculus)<br>2. ML Types (Supervised, Unsupervised, RL, Time Series)<br>3. MLOps + FastAPI + Docker + AWS services | - |
+| **D** | **Data Analyst & Core** | 1. Data Structure & Algorithms<br>2. Python & Libraries (NumPy, Pandas, EDA)<br>3. Dashboard tools (Power BI, Tableau, Excel) | - |
+| **E** | **Data Engineering** | 1. Big Data (Spark, Hadoop, Airflow, Kafka, ETL)<br>2. Data Warehouse & Databases (SQL, NoSQL, Snowflake)<br>3. AWS Services | - |
+| **F** | **ML & Data Engineering System Design** | 1. High Level (HLD) & Low Level Design (LLD)<br>2. Scalability & Reliability (CAP, Load Balancing)<br>3. Distributed Systems & Microservices<br>4. **Database Design (Sharding, Caching)**<br>&nbsp;&nbsp;• **Sharding:** Essential when data is too big for one database (Common in Data Eng)<br>&nbsp;&nbsp;• **Caching:** Essential for low-latency ML inference (e.g. storing features in Redis for instant answers) | - |
 
 ---
 

@@ -18,10 +18,6 @@
 
 ---
 
-## 🎯 Profile Summary
-
-**IT Professional with 4+ years of experience** in the development and implementation of AI/ML-driven software applications.
-
 🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning and Generative AI / Agentic AI solutions at scale**. Experienced in:
 
 - 📊 Handling **1PB+ large datasets** and developing real-time data pipelines

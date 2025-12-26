@@ -175,7 +175,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ## ‼️ Full Stack Data Scientist (AI /ML/Gen AI/ Agentic AI Engineer)
 
-| Section | Topics | Sub-Topics | Project Details ( Use Case's )| Tech Stack | Links |
+| Section | Topics | Sub-Topics | Project Details ( Use Case's ) | Tech Stack | Links |
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | **A** | **Agentic AI & Gen AI** | 1. Agentic AI & MCP<br>2. Gen AI, RAG, LLM<br>3. AIOps, LLMops using AWS services<br>4. UI/UX → Streamlit, ReactJS | - | - | - |
 | **B** | **Deep Learning** | 1. Neural Networks<br>2. Computer Vision<br>3. NLP (Natural Language Processing)<br>4. Transformer | - | - | - |

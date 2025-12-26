@@ -166,7 +166,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ## :bangbang: &nbsp; Professional Experience 
 
-| When | Where | Designation | Work | Details Work | Links |
+| When | Where | Designation | Key Responsibilities | Project Details | Links |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | **Dec 2022 - Till Date** | **TCS** | **Data Scientist**<br>(AI/ML Engineer) | • AI/ML Use Cases | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
 | **Dec 2021 - Dec 2022** | **TCS** | **Data Engineer & Analyst** | • Data Engineering AWS Stack<br>• Business Intelligence<br>• Dashboard Reports | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
@@ -175,7 +175,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ## ‼️ Full Stack Data Scientist (AI /ML/Gen AI/ Agentic AI Engineer)
 
-| Section | Topics | Sub-Topics | Use Case | Tech Stack | Links |
+| Section | Topics | Sub-Topics | Project Details ( Use Case's )| Tech Stack | Links |
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | **A** | **Agentic AI & Gen AI** | 1. Agentic AI & MCP<br>2. Gen AI, RAG, LLM<br>3. AIOps, LLMops using AWS services<br>4. UI/UX → Streamlit, ReactJS | - | - | - |
 | **B** | **Deep Learning** | 1. Neural Networks<br>2. Computer Vision<br>3. NLP (Natural Language Processing)<br>4. Transformer | - | - | - |

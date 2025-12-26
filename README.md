@@ -174,39 +174,6 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | **Dec 2022 - Till Date** | **TCS** | **Data Scientist**<br>(AI/ML Engineer) | • AI/ML Use Cases | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
 | **Dec 2021 - Dec 2022** | **TCS** | **Data Engineer & Analyst** | • Data Engineering AWS Stack<br>• Business Intelligence<br>• Dashboard Reports | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
 
----
-
-## ‼️ Full Stack Data Scientist (AI /ML/Gen AI/ Agentic AI Engineer)
-
-| Section | Topics | Sub-Topics | Details in Sub-Topics| Project Details ( Use Case's ),Tech Stack & Links |
-| :---: | :--- | :--- | :--- | :--- |
-| **A** | **Agentic AI & Gen AI** | 1. Agentic AI & MCP<br>2. Gen AI, RAG, LLM<br>3. AIOps, LLMops using AWS services<br>4. UI/UX → Streamlit, ReactJS | 1. Agentic AI & MCP
-    - Agentic AI: Autonomous software agents that perceive environments, make decisions, and execute actions to achieve goals (e.g., robotic process automation, autonomous trading bots).
-    - MCP (Model‑Control Pipeline): An end‑to‑end framework that orchestrates model training, validation, deployment, and monitoring. It includes versioning, A/B testing, and feedback loops for continuous improvement.
-
-2. Gen AI, RAG, LLM
-    - Gen AI (Generative AI): Models that generate new content—text (GPT), images (DALL·E), audio, or code. Training involves massive unsupervised learning on diverse datasets.
-    - RAG (Retrieval‑Augmented Generation): Enhances LLMs by fetching external knowledge (from databases or web) during generation, improving factual accuracy and reducing hallucinations.
-    - LLM (Large Language Model): Transformer‑based models with billions of parameters (e.g., GPT‑4, Llama). Fine‑tuning adapts them to specific tasks like chatbots or summarization.
-
-3. AIOps, LLMops using AWS services
-    - AIOps: Applies AI/ML to IT operations for anomaly detection, root‑cause analysis, and automated remediation (using logs, metrics).
-    - LLMops: Practices for deploying LLMs at scale—managing inference costs, latency, and model updates.
-    - AWS services:
-        - SageMaker: End‑to‑end ML model building, training, and deployment.
-        - Lambda: Serverless functions for lightweight inference.
-        - CloudWatch: Monitoring and alerting for ops.
-
-4. UI/UX → Streamlit, ReactJS
-    - UI/UX: Focuses on user‑centric design—intuitive interfaces and smooth experiences.
-    - Streamlit: Python library that turns data scripts into shareable web apps instantly (great for ML demos).
-    - ReactJS: JavaScript framework for building complex, state‑managed front‑ends with reusable components. |1. **Agentic AI Trip Planner (CrewAI)**<br>&nbsp;&nbsp;• [[Details]](https://github.com/Ratnesh-181998/Agentic-AI-Trip-Planner-CrewAI/blob/main/README.md) • [[Tech Stack]](https://github.com/Ratnesh-181998/Agentic-AI-Trip-Planner-CrewAI/blob/main/requirements.txt) • [[Live Demo]](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)<br><br>2. **Universal PDF RAG Chatbot**<br>&nbsp;&nbsp;• [[Details]](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot/blob/main/README.md) • [[Tech Stack]](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot/blob/main/requirements.txt) • [[Live Demo]](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/) |
-| **B** | **Deep Learning** | 1. Neural Networks<br>2. Computer Vision<br>3. NLP (Natural Language Processing)<br>4. Transformer | - | - | - |
-| **C** | **Machine Learning** | 1. Maths for ML (Probability, Stats, Algebra, Calculus)<br>2. ML Types (Supervised, Unsupervised, RL, Time Series)<br>3. MLOps + FastAPI + Docker + AWS services | - | - | - |
-| **D** | **Data Analyst** | 1.Python & Libraries (NumPy, Pandas, EDA)<br>3. Dashboard tools (Power BI, Tableau, Excel) | - | - | - |
-| **E** | **Data Engineering** | 1. Big Data (Spark, Hadoop, Airflow, Kafka, ETL)<br>2. Data Warehouse & Databases (SQL, NoSQL, Snowflake)<br>3. AWS Services | - | - | - |
-| **F** | **ML and data engineering system design** | **1.High Level (HLD) & Low Level Design (LLD)** <br>&nbsp;&nbsp;•Every robust ML system (like a Recommendation Engine or Fraud Detection system) starts here. <br>&nbsp;&nbsp;•Need HLD to map out how data flows from ingestion to training to inference, and LLD to design the specific APIs and database schemas.<br>**2. Scalability & Reliability (CAP, Load Balancing)** <br>&nbsp;&nbsp;•Data Engineering deals with massive scale (Petabytes). <br>&nbsp;&nbsp;•Understand how to scale horizontally (adding more servers) and ensure the system doesn't crash (Reliability/Load Balancing) when thousands of users hit your model.<br>**3.Distributed Systems & Microservices** <br>&nbsp;&nbsp;•Big data tools (Spark, Kafka) are distributed systems. <br>&nbsp;&nbsp;•Also, modern ML apps are built as microservices (e.g., one service for data processing, one for the model, one for the UI) rather than one giant app.<br>**4.Database Design (Sharding, Caching)**: <br>&nbsp;&nbsp;•**Sharding-** Essential when your data is too big for one database (common in Data Engineering). <br>&nbsp;&nbsp;•**Caching-** Essential for low-latency ML inference (e.g., storing pre-calculated features in Redis so your model answers instantly).| - | - | - |
-| **G** | **Competitive Programming** | 1.Algorithms<br>2.Data Structures  | - | - | - |
 
 ---
 ## 🗺️ Full Stack Data Scientist (AI/ML/Gen AI/Agentic AI Engineer) Roadmap
@@ -220,6 +187,8 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | **E** | **Data Engineering** | 1. Big Data (Spark, Hadoop, Airflow, Kafka, ETL)<br>2. Data Warehouse & Databases (SQL, NoSQL, Snowflake)<br>3. AWS Services | - | - |
 | **F** | **ML & Data Engineering System Design** | 1. High Level (HLD) & Low Level Design (LLD)<br>2. Scalability & Reliability (CAP, Load Balancing)<br>3. Distributed Systems & Microservices<br>4. Database Design (Sharding, Caching) | **1. High Level (HLD) & Low Level Design (LLD)**<br>• Every robust ML system (like a Recommendation Engine or Fraud Detection system) starts here.<br>• Need HLD to map out how data flows from ingestion to training to inference, and LLD to design specific APIs.<br><br>**2. Scalability & Reliability (CAP, Load Balancing)**<br>• Data Engineering deals with massive scale (Petabytes).<br>• Understand how to scale horizontally (adding more servers) and ensure reliability when thousands of users hit your model.<br><br>**3. Distributed Systems & Microservices**<br>• Big data tools (Spark, Kafka) are distributed systems.<br>• Modern ML apps are built as microservices (e.g., separate services for data, model, UI) vs giant apps.<br><br>**4. Database Design (Sharding, Caching)**<br>• **Sharding:** Essential when data is too big for one database (common in Data Eng).<br>• **Caching:** Essential for low-latency ML inference (e.g., storing pre-calculated features in Redis). | - |
 | **G** | **Competitive Programming** | 1. Algorithms<br>2. Data Structures | - | - |
+
+
 ---
 
 ## 🚀 Featured Projects & Live Demos

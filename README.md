@@ -326,18 +326,18 @@ End-to-end big data pipeline with orchestration
 </div>
 
 ---
-
+<!-- 
 ## �🏆 GitHub Trophies
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  <!--[Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
   <!-- Trophies (Temporarily disabled due to service outage)
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
   -->
-  
-</div>
-
+   <!-- Trophies (Temporarily disabled due to service outage)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  --></div> 
 ---
 
 ## 📈 Contribution Graph

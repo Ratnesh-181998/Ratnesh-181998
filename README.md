@@ -21,7 +21,7 @@
 
 **IT Professional with 4+ years of experience** in the development and implementation of AI/ML-driven software applications.
 
-🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning and Generative AI solutions at scale**. Experienced in:
+🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning and Generative AI / Agentic AI solutions at scale**. Experienced in:
 
 - 📊 Handling **1PB+ large datasets** and developing real-time data pipelines
 - 🚀 Delivering **production-grade AI/ML/GenAI/Agentic AI systems** across cloud environments
@@ -95,8 +95,8 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Architectures:** Transformers • CNN • RNN • LSTM • GANs • YOLOv8 • R-CNN  
-**Applications:** OCR • Object Detection • Classification • Segmentation
+**Architectures:** • Transformers • CNN • RNN • LSTM • GANs • YOLOv8 • R-CNN  
+**Applications:** • OCR • Object Detection • Classification • Segmentation
 
 ### 💬 Natural Language Processing
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white)

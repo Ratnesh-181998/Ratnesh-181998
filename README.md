@@ -453,7 +453,7 @@ print(me.get_status())
 
 <div align="center">
   
-  ### 🌟 "The best way to predict the future is to invent it." - Alan Kay
+  ### 🌟 "The best way to predict the future is to invent it." - Ratnesh
    <!--
    ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRatnesh-181998&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   -->

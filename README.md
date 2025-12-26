@@ -180,7 +180,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 | Section | Topics | Sub-Topics | Project Details ( Use Case's ) | Tech Stack | Links |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| **A** | **Agentic AI & Gen AI** | 1. Agentic AI & MCP<br>2. Gen AI, RAG, LLM<br>3. AIOps, LLMops using AWS services<br>4. UI/UX → Streamlit, ReactJS | [[Agentic AI Trip Planner CrewA]](https://github.com/Ratnesh-181998/Agentic-AI-Trip-Planner-CrewAI/blob/main/README.md) | - | - |
+| **A** | **Agentic AI & Gen AI** | 1. Agentic AI & MCP<br>2. Gen AI, RAG, LLM<br>3. AIOps, LLMops using AWS services<br>4. UI/UX → Streamlit, ReactJS | 1.Agentic AI Trip Planner CrewAI <br>&nbsp;•[[Detail]](https://github.com/Ratnesh-181998/Agentic-AI-Trip-Planner-CrewAI/blob/main/README.md)<br>&nbsp;&nbsp;•[[Tech Stack]](https://github.com/Ratnesh-181998/Agentic-AI-Trip-Planner-CrewAI/blob/main/requirements.txt)<br>&nbsp;•[[Live Demo]](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)  | - | - |
 | **B** | **Deep Learning** | 1. Neural Networks<br>2. Computer Vision<br>3. NLP (Natural Language Processing)<br>4. Transformer | - | - | - |
 | **C** | **Machine Learning** | 1. Maths for ML (Probability, Stats, Algebra, Calculus)<br>2. ML Types (Supervised, Unsupervised, RL, Time Series)<br>3. MLOps + FastAPI + Docker + AWS services | - | - | - |
 | **D** | **Data Analyst** | 1.Python & Libraries (NumPy, Pandas, EDA)<br>3. Dashboard tools (Power BI, Tableau, Excel) | - | - | - |

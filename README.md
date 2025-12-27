@@ -24,11 +24,11 @@
 
 ### 🌟 Key Highlights
 
-✅ Extensive experience in diverse ML algorithms: **LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, NLP**  
-✅ Expertise in **Computer Vision, Text Analytics**, and business value analysis  
-✅ Strong background in **algorithm design, model evaluation, error analysis**  
-✅ Successfully handled **petabyte-scale (1PB+) data** in real-world environments  
-✅ Deployed **ML/DL/CV/NLP/GenAI/Agentic AI models into production** in collaboration with engineering teams
+- Extensive experience in diverse ML algorithms: **LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, NLP**  
+- Expertise in **Computer Vision, Text Analytics**, and business value analysis  
+- Strong background in **algorithm design, model evaluation, error analysis**  
+- Successfully handled **petabyte-scale (1PB+) data** in real-world environments  
+- Deployed **ML/DL/CV/NLP/GenAI/Agentic AI models into production** in collaboration with engineering teams
 
 ---
 
@@ -104,9 +104,9 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Expertise:**  
-✅ LLM Architectures • Prompt Engineering • RAG (Retrieval Augmented Generation)  
-✅ Fine-Tuning (SFT, LoRA, QLoRA) • Model Optimization & Quantization (GGUF, 4-bit/8-bit)  
-✅ OpenAI GPT Models • Llama3 • Mixtral • Claude (Anthropic) • Vertex AI
+- LLM Architectures • Prompt Engineering • RAG (Retrieval Augmented Generation)  
+- Fine-Tuning (SFT, LoRA, QLoRA) • Model Optimization & Quantization (GGUF, 4-bit/8-bit)  
+- OpenAI GPT Models • Llama3 • Mixtral • Claude (Anthropic) • Vertex AI
 
 ### 🔍 Vector Databases & Embeddings
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)

@@ -1,8 +1,6 @@
-## 👋 Hi there , I'm Ratnesh Kumar Singh
+## 👋 Hi there , I'm Ratnesh Kumar Singh                                                    ![Profile Views](https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blueviolet&style=for-the-badge)
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blueviolet&style=for-the-badge)
   
   **Data Scientist | AI/ML Engineer | GeN AI | Agentic AI Specialist**
   

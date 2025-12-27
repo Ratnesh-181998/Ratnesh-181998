@@ -176,7 +176,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 
 ---
-## 🗺️ Full Stack Data Scientist (AI/ML/Gen AI/Agentic AI Engineer) Roadmap
+## 🗺️ Full Stack Data Scientist (AI/ML/Gen AI/Agentic AI Engineer)
 
 | Section | Topics | Sub-Topics | Sub Topics In Details | Project Details (Use Cases), Tech Stack & Links |
 | :---: | :--- | :--- | :--- | :--- |

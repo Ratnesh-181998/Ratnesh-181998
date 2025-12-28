@@ -198,103 +198,107 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ### 🤖 AI & Machine Learning Applications
 
-#### 1. 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
+#### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
 - **Features:** Automated itinerary generation, budget optimization, personalized recommendations
 
-#### 2. 📄 [Universal PDF RAG Chatbot](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/)
+#### 📄 [Universal PDF RAG Chatbot](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/)
 Advanced RAG-based chatbot for PDF document Q&A
 - **Tech:** LangChain • FAISS • OpenAI Embeddings • RAG
 - **Features:** Multi-document support, semantic search, context-aware responses
 
-#### 3. 📰 [FlipItNews - NLP Classifier](https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
+### 🛍️ Flipkart Product Recommender (RAG) AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
+- **Tech:** LangChain • Groq (Llama 3) • AstraDB • HuggingFace • Streamlit
+- **Features:** Semantic search, review sentiment analysis, context-aware recommendations, real-time RAG pipeline
+
+#### 📰 [FlipItNews - NLP Classifier](https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
 Real-time news classification using advanced NLP techniques
 - **Tech:** BERT • Transformers • NLP • Classification
 - **Features:** Multi-class news categorization, sentiment analysis
 
-#### 4. 🐦 [Twitter NER System](https://twitter-ner-system-ab12c.streamlit.app/)
+#### 🐦 [Twitter NER System](https://twitter-ner-system-ab12c.streamlit.app/)
 Named Entity Recognition system for social media text
 - **Tech:** SpaCy • NER • NLP • Entity Extraction
 - **Features:** Real-time entity detection, visualization, custom entity types
 
 ### 🚗 Computer Vision & Object Detection
 
-#### 5. 🚙 [Tesla Autonomous Car - YOLOv5 Object Detection](https://tesla-autonomous-car-driving-vision-yolov5-object-detection-an.streamlit.app/)
+#### 🚙 [Tesla Autonomous Car - YOLOv5 Object Detection](https://tesla-autonomous-car-driving-vision-yolov5-object-detection-an.streamlit.app/)
 Real-time object detection for autonomous driving scenarios
 - **Tech:** YOLOv5 • OpenCV • Computer Vision
 - **Features:** Multi-object detection, real-time processing, bounding box visualization
 
-#### 6. 🛡️ [Defence AI - Multisensor Surveillance (YOLOv8)](https://defence-ai-multisensor-surveillance-yolov8-vusybzt9bohpykhzkq3.streamlit.app/)
+#### 🛡️ [Defence AI - Multisensor Surveillance (YOLOv8)](https://defence-ai-multisensor-surveillance-yolov8-vusybzt9bohpykhzkq3.streamlit.app/)
 Advanced surveillance system using YOLOv8
 - **Tech:** YOLOv8 • Multi-sensor Fusion • Real-time Detection
 - **Features:** Threat detection, multi-camera support, alert system
 
 ### 📊 Business Analytics & Predictive Modeling
 
-#### 7. 📈 [AdEase - Time Series Analysis](https://adease-time-series-analysis-drkta7i8zeotm6ayyasjj8.streamlit.app/)
+#### 📈 [AdEase - Time Series Analysis](https://adease-time-series-analysis-drkta7i8zeotm6ayyasjj8.streamlit.app/)
 Advertising effectiveness forecasting using time series models
 - **Tech:** ARIMA • SARIMA • Prophet • Time Series
 - **Features:** Trend analysis, seasonality detection, future predictions
 
-#### 8. 🎓 [EdTech Learner Clustering Analysis](https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/)
+#### 🎓 [EdTech Learner Clustering Analysis](https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/)
 Student segmentation for personalized learning
 - **Tech:** K-Means • DBSCAN • Clustering • Unsupervised Learning
 - **Features:** Student profiling, learning pattern analysis, recommendations
 
-#### 9. 💰 [LoanTap Credit Risk Analysis](https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/)
+#### 💰 [LoanTap Credit Risk Analysis](https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/)
 Credit risk assessment and loan default prediction
 - **Tech:** XGBoost • Random Forest • Classification • Risk Modeling
 - **Features:** Credit scoring, risk stratification, feature importance analysis
 
-#### 10. 📦 [Delhivery Logistics Analysis Dashboard](https://delhivery-logistics-analysis-dashboard-bp5ruz5asyrx4yc67j5h4i.streamlit.app/)
+#### 📦 [Delhivery Logistics Analysis Dashboard](https://delhivery-logistics-analysis-dashboard-bp5ruz5asyrx4yc67j5h4i.streamlit.app/)
 Comprehensive logistics and supply chain analytics
 - **Tech:** Pandas • Plotly • Data Visualization • Dashboard
 - **Features:** Route optimization, delivery time prediction, KPI tracking
 
-#### 11. 🎓 [Jamboree Graduate Admission Predictor](https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/)
+#### 🎓 [Jamboree Graduate Admission Predictor](https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/)
 ML-based graduate school admission probability calculator
 - **Tech:** Logistic Regression • Feature Engineering • Classification
 - **Features:** Admission probability, university recommendations, profile analysis
 
-#### 12. 🚴 [Yulu Bike Sharing Demand Analytics](https://yulu-bike-sharing-demand-analytics-hpxhkpd9ilirthx2frxya6.streamlit.app/)
+#### 🚴 [Yulu Bike Sharing Demand Analytics](https://yulu-bike-sharing-demand-analytics-hpxhkpd9ilirthx2frxya6.streamlit.app/)
 Demand forecasting for bike-sharing services
 - **Tech:** Time Series • Regression • Demand Forecasting
 - **Features:** Hourly demand prediction, weather impact analysis, station optimization
 
-#### 13. 🏋️ [Aerofit Customer Intelligence Dashboard](https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/)
+#### 🏋️ [Aerofit Customer Intelligence Dashboard](https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/)
 Customer segmentation and product recommendation system
 - **Tech:** Clustering • RFM Analysis • Customer Analytics
 - **Features:** Customer profiling, product affinity, targeted marketing insights
 
-#### 14. 🛒 [Walmart Black Friday Sales Analysis](https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/)
+#### 🛒 [Walmart Black Friday Sales Analysis](https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/)
 Sales pattern analysis and revenue optimization
 - **Tech:** EDA • Statistical Analysis • Visualization
 - **Features:** Purchase behavior analysis, demographic insights, sales forecasting
 
-#### 15. 🚖 [Ola Driver Churn Prediction](https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/)
+#### 🚖 [Ola Driver Churn Prediction](https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/)
 Driver retention prediction using machine learning
 - **Tech:** Gradient Boosting • Feature Engineering • Classification
 - **Features:** Churn probability, retention strategies, driver profiling
 
-#### 16. 🎬 [Netflix Content Strategy Dashboard](https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/)
+#### 🎬 [Netflix Content Strategy Dashboard](https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/)
 Content analysis and recommendation insights
 - **Tech:** NLP • Content Analysis • Recommendation Systems
 - **Features:** Genre analysis, content trends, viewer preferences
 
-#### 17. 🛍️ [Target Brazil E-Commerce Analytics](https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/)
+#### 🛍️ [Target Brazil E-Commerce Analytics](https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/)
 E-commerce performance and customer behavior analysis
 - **Tech:** SQL • Python • Business Intelligence
 - **Features:** Sales metrics, customer lifetime value, product performance
 
 ### 🔄 Real-Time Data Engineering
 
-#### 18. 📡 [Real-Time Telecom Data Pipeline (Kafka)](https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/)
+#### 📡 [Real-Time Telecom Data Pipeline (Kafka)](https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/)
 Streaming data pipeline for telecom analytics
 - **Tech:** Apache Kafka • Streaming • Real-time Processing
 - **Features:** Live data ingestion, stream processing, real-time dashboards
 
-#### 19. 🌊 [Real-Time Data Pipeline (Airflow + Kafka + Spark + Cassandra)](https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/)
+####  🌊 [Real-Time Data Pipeline (Airflow + Kafka + Spark + Cassandra)](https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/)
 End-to-end big data pipeline with orchestration
 - **Tech:** Airflow • Kafka • Spark • Cassandra • Docker
 - **Features:** Automated workflows, distributed processing, scalable architecture

@@ -208,7 +208,8 @@ Advanced RAG-based chatbot for PDF document Q&A
 - **Tech:** LangChain • FAISS • OpenAI Embeddings • RAG
 - **Features:** Multi-document support, semantic search, context-aware responses
 
-### 🛍️ Flipkart Product Recommender (RAG) AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
+### 🛍️ [Flipkart Product Recommender (RAG)](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/)
+  AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
 - **Tech:** LangChain • Groq (Llama 3) • AstraDB • HuggingFace • Streamlit
 - **Features:** Semantic search, review sentiment analysis, context-aware recommendations, real-time RAG pipeline
 

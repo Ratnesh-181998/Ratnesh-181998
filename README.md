@@ -202,6 +202,11 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
 - **Features:** Automated itinerary generation, budget optimization, personalized recommendations
+  
+### 🤖 [Enterprise Multi-AI Agent System (LangGraph,Langchain,LlamaIndex](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
+Advanced LangGraph-driven multi-agent ecosystem designed for high-speed intelligent reasoning and real-time orchestrated web research.
+-**Tech:** LangGraph • Groq (Llama 3.1) • Tavily API • FastAPI • Docker • Jenkins • AWS
+-**Features:** Cyclic agentic workflows • Near-zero latency inference • Automated DevSecOps/LLMOps/AIOps pipeline with SonarQube quality gates
 
 #### 📄 [Universal PDF RAG Chatbot](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/)
 Advanced RAG-based chatbot for PDF document Q&A

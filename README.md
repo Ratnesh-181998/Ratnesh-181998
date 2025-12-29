@@ -214,9 +214,14 @@ Advanced RAG-based chatbot for PDF document Q&A
 - **Features:** Multi-document support, semantic search, context-aware responses
 
 ### 🛍️ [Flipkart Product Recommender (RAG)](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/)
-  AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
+AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
 - **Tech:** LangChain • Groq (Llama 3) • AstraDB • HuggingFace • Streamlit
 - **Features:** Semantic search, review sentiment analysis, context-aware recommendations, real-time RAG pipeline
+  
+### 🎹 [GenAI Music Composer (Llama 3.1, Groq, Music21)](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/)
+Production-grade generative AI orchestration studio that transforms natural language prompts into high-fidelity musical compositions using sub-second LLM inference.
+- **Tech:** Groq LPU (Llama 3.1) • LangChain • Music21 • Synthesizer • Docker • GKE (Kubernetes)
+- **Features:** Real-time melody & harmony orchestration, automated music theory validation, multi-tab operational monitoring, and professional WAV/MIDI export capabilities.
 
 #### 📰 [FlipItNews - NLP Classifier](https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
 Real-time news classification using advanced NLP techniques

@@ -159,7 +159,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 | Duration | Institute | Degree & Specialization | GPA / CGPA | Links |
 | :--- | :--- | :--- | :--- | :--- |
-| **Aug 2022 - 2024** | **Woolf University** | **Master of Science (MS)**<br>Computer Science: Artificial intelligence and Machine Learning | **4.0 / 4.0 GPA** | [College](https://woolf.university) \| [Degree](https://woolf.university/id/3625948911) \| [Description](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/MS%20in%20AI%20and%20ML%20Degree%20-By%20Woolf%20%20University) |
+| **Aug 2022 - 2024** | **Woolf University** | **Master of Science (MS)**<br>Computer Science: Artificial intelligence and Machine Learning | **4.0 / 4.0 GPA** | [College](https://woolf.university) \| [Degree](https://woolf.university/id/3625948911) \| [Academic institution](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/MS%20in%20AI%20and%20ML%20Degree%20-By%20Woolf%20%20University) |
 | **Jul 2016 - 2020** | **Guru Nanak Dev Engineering College** | **Bachelor of Technology (B.Tech)**<br>Information Technology | **7.34 / 10.0 CGPA** | [College](https://gndec.ac.in) \| [Degree](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/B.Tech%20Degree-%20GNDEC) |
 
 ---

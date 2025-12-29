@@ -24,7 +24,7 @@
 
 ### 🌟 Key Highlights
 
-- Extensive experience in diverse ML algorithms: **LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, NLP**  
+- Experience in diverse AI/ML algorithms: **LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, NLP**  
 - Expertise in **Computer Vision, Text Analytics**, and business value analysis  
 - Strong background in **algorithm design, model evaluation, error analysis**  
 - Successfully handled **petabyte-scale (1PB+) data** in real-world environments  

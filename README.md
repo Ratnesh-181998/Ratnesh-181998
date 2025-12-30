@@ -213,6 +213,11 @@ Advanced RAG-based chatbot for PDF document Q&A
 - **Tech:** LangChain • FAISS • OpenAI Embeddings • RAG
 - **Features:** Multi-document support, semantic search, context-aware responses
 
+### 🏥 [Medical RAG Chatbot (Llama 3, FAISS, Docker)](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/)
+A production-grade AI health assistant that delivers accurate, evidence-backed answers from medical encyclopedias using Retrieval-Augmented Generation (RAG) to eliminate hallucinations.
+- **Tech:** LangChain • Llama 3 (HuggingFace) • FAISS • Streamlit • Docker • Jenkins • AWS App Runner • Aqua Trivy
+- **Features:** Source-cited medical answers, sub-second vector retrieval, hallucination-free context injection, interactive system architecture visualization, and automated CI/CD deployment pipeline.
+
 ### 🛍️ [Flipkart Product Recommender (RAG)](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/)
 AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
 - **Tech:** LangChain • Groq (Llama 3) • AstraDB • HuggingFace • Streamlit

@@ -168,7 +168,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 | When | Where | Designation | Key Responsibilities | Project Details | Links |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Dec 2022 - Till Date** | **TCS** | **Data Scientist**<br>(AI/ML Engineer) | • AI/ML Use Cases | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
+| **Dec 2022 - Jan 2026** | **TCS** | **Data Scientist**<br>(AI/ML Engineer) | • AI/ML Use Cases | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
 | **Dec 2021 - Dec 2022** | **TCS** | **Data Engineer & Analyst** | • Data Engineering AWS Stack<br>• Business Intelligence<br>• Dashboard Reports | - | [[Link]](https://www.linkedin.com/in/ratneshkumar1998/) |
 
 

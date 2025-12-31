@@ -198,6 +198,11 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ### 🤖 AI & Machine Learning Applications
 
+### 🌤️ [Weather MCP Agent (A2A,Llama 3, Groq, Streamlit)](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
+A next-generation Agentic AI system that uses the Model Context Protocol (MCP) to standardize tool usage, enabling Llama 3 to fetch real-time global weather data with sub-second latency and zero hallucinations.
+- **Tech:** MCP Server/Client • Llama 3 (Groq LPU) • LangChain • Streamlit • Open-Meteo • WebRTC
+- **Features:** Universal tool protocol implementation, multi-modal voice interaction, sub-second reasoning, robust NLP city extraction, and interactive architectural visualization.
+
 #### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
@@ -205,8 +210,8 @@ Multi-agent AI system for intelligent travel planning using CrewAI framework
   
 ### 🤖 [Enterprise Multi-AI Agent System (LangGraph,Langchain,LlamaIndex](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
 Advanced LangGraph-driven multi-agent ecosystem designed for high-speed intelligent reasoning and real-time orchestrated web research.
--**Tech:** LangGraph • Groq (Llama 3.1) • Tavily API • FastAPI • Docker • Jenkins • AWS
--**Features:** Cyclic agentic workflows • Near-zero latency inference • Automated DevSecOps/LLMOps/AIOps pipeline with SonarQube quality gates
+- **Tech:** LangGraph • Groq (Llama 3.1) • Tavily API • FastAPI • Docker • Jenkins • AWS
+- **Features:** Cyclic agentic workflows • Near-zero latency inference • Automated DevSecOps/LLMOps/AIOps pipeline with SonarQube quality gates
 
 #### 📄 [Universal PDF RAG Chatbot](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/)
 Advanced RAG-based chatbot for PDF document Q&A

@@ -233,6 +233,11 @@ Production-grade generative AI orchestration studio that transforms natural lang
 - **Tech:** Groq LPU (Llama 3.1) • LangChain • Music21 • Synthesizer • Docker • GKE (Kubernetes)
 - **Features:** Real-time melody & harmony orchestration, automated music theory validation, multi-tab operational monitoring, and professional WAV/MIDI export capabilities.
 
+### 🌟 [Celebrity Recognition & QA AI System (ViT, Groq LLaMA-4, Streamlit)](https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/)
+A state-of-the-art multimodal AI application combining computer vision for real-time identity detection with Large Language Models for context-aware celebrity Q&A.
+- **Tech**: Python • Streamlit • OpenCV • Vision Transformer (ViT) • Groq LLaMA-4 Vision • Docker • Kubernetes (GKE)
+- **Features**: Real-time biometric recognition • 128-d vector embeddings • Multimodal contextual reasoning • Low-latency inference • Microservices architecture
+  
 #### 📰 [FlipItNews - NLP Classifier](https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
 Real-time news classification using advanced NLP techniques
 - **Tech:** BERT • Transformers • NLP • Classification

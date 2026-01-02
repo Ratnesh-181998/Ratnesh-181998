@@ -208,7 +208,7 @@ Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
 - **Features:** Automated itinerary generation, budget optimization, personalized recommendations
 
-### 🎬 [Agentic RAG Anime Recommender()](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/)
+### 🎬 [Agentic RAG Anime Recommender(ChromaDB,HuggingFace Transformers,LangChain)](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/)
 A production-grade Agentic Retrieval-Augmented Generation (RAG) system that leverages semantic search and LLM reasoning to provide context-aware anime discovery with sub-second latency and zero hallucinations.
 - **Tech:** Groq LPU (Llama 3.1) • LangChain • ChromaDB • HuggingFace Embeddings • Streamlit • Docker • Kubernetes (GKE)
 - **Features:** Semantic plot & vibe discovery, agentic reasoning layers, interactive multi-tab premium UI, cloud-native containerization, and advanced LLMOps observability.

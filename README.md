@@ -207,6 +207,11 @@ A next-generation Agentic AI system that uses the Model Context Protocol (MCP) t
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
 - **Features:** Automated itinerary generation, budget optimization, personalized recommendations
+
+### 🎬 [Agentic RAG Anime Recommender()](https://agentic-rag-anime-recommender-system-dhsvh7zgrejeed2ghprr3d.streamlit.app/)
+A production-grade Agentic Retrieval-Augmented Generation (RAG) system that leverages semantic search and LLM reasoning to provide context-aware anime discovery with sub-second latency and zero hallucinations.
+- **Tech:** Groq LPU (Llama 3.1) • LangChain • ChromaDB • HuggingFace Embeddings • Streamlit • Docker • Kubernetes (GKE)
+- **Features:** Semantic plot & vibe discovery, agentic reasoning layers, interactive multi-tab premium UI, cloud-native containerization, and advanced LLMOps observability.
   
 ### 🤖 [Enterprise Multi-AI Agent System (LangGraph,Langchain,LlamaIndex](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
 Advanced LangGraph-driven multi-agent ecosystem designed for high-speed intelligent reasoning and real-time orchestrated web research.

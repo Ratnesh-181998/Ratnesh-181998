@@ -198,22 +198,22 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 ### 🤖 AI & Machine Learning Applications
 
-### 🌤️ [Weather MCP Agent (A2A,Llama 3, Groq, Streamlit)](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
+#### 🌤️ [Weather MCP Agent (A2A,Llama 3, Groq, Streamlit)](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
 A next-generation Agentic AI system that uses the Model Context Protocol (MCP) to standardize tool usage, enabling Llama 3 to fetch real-time global weather data with sub-second latency and zero hallucinations.
 - **Tech:** MCP Server/Client • Llama 3 (Groq LPU) • LangChain • Streamlit • Open-Meteo • WebRTC
 - **Features:** Universal tool protocol implementation, multi-modal voice interaction, sub-second reasoning, robust NLP city extraction, and interactive architectural visualization.
 
-### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
+#### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
 - **Features:** Automated itinerary generation, budget optimization, personalized recommendations
 
-### 🎬 [Agentic RAG Anime Recommender(ChromaDB,HuggingFace Transformers,LangChain)](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/)
+#### 🎬 [Agentic RAG Anime Recommender(ChromaDB,HuggingFace Transformers,LangChain)](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/)
 A production-grade Agentic Retrieval-Augmented Generation (RAG) system that leverages semantic search and LLM reasoning to provide context-aware anime discovery with sub-second latency and zero hallucinations.
 - **Tech:** Groq LPU (Llama 3.1) • LangChain • ChromaDB • HuggingFace Embeddings • Streamlit • Docker • Kubernetes (GKE)
 - **Features:** Semantic plot & vibe discovery, agentic reasoning layers, interactive multi-tab premium UI, cloud-native containerization, and advanced LLMOps observability.
   
-### 🤖 [Enterprise Multi-AI Agent System (LangGraph,Langchain,LlamaIndex](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
+#### 🤖 [Enterprise Multi-AI Agent System (LangGraph,Langchain,LlamaIndex)](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
 Advanced LangGraph-driven multi-agent ecosystem designed for high-speed intelligent reasoning and real-time orchestrated web research.
 - **Tech:** LangGraph • Groq (Llama 3.1) • Tavily API • FastAPI • Docker • Jenkins • AWS
 - **Features:** Cyclic agentic workflows • Near-zero latency inference • Automated DevSecOps/LLMOps/AIOps pipeline with SonarQube quality gates
@@ -223,22 +223,22 @@ Advanced RAG-based chatbot for PDF document Q&A
 - **Tech:** LangChain • FAISS • OpenAI Embeddings • RAG
 - **Features:** Multi-document support, semantic search, context-aware responses
 
-### 🏥 [Medical RAG Chatbot (Llama 3, FAISS, Docker)](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/)
+#### 🏥 [Medical RAG Chatbot (Llama 3, FAISS, Docker)](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/)
 A production-grade AI health assistant that delivers accurate, evidence-backed answers from medical encyclopedias using Retrieval-Augmented Generation (RAG) to eliminate hallucinations.
 - **Tech:** LangChain • Llama 3 (HuggingFace) • FAISS • Streamlit • Docker • Jenkins • AWS App Runner • Aqua Trivy
 - **Features:** Source-cited medical answers, sub-second vector retrieval, hallucination-free context injection, interactive system architecture visualization, and automated CI/CD deployment pipeline.
 
-### 🛍️ [Flipkart Product Recommender (RAG)](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/)
+#### 🛍️ [Flipkart Product Recommender (RAG,AstraDB,HuggingFace)](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/)
 AI-powered recommendation engine using Retrieval-Augmented Generation for intelligent product discovery
 - **Tech:** LangChain • Groq (Llama 3) • AstraDB • HuggingFace • Streamlit
 - **Features:** Semantic search, review sentiment analysis, context-aware recommendations, real-time RAG pipeline
   
-### 🎹 [GenAI Music Composer (Llama 3.1, Groq, Music21)](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/)
+#### 🎹 [GenAI Music Composer (Llama 3.1, Groq, Music21)](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/)
 Production-grade generative AI orchestration studio that transforms natural language prompts into high-fidelity musical compositions using sub-second LLM inference.
 - **Tech:** Groq LPU (Llama 3.1) • LangChain • Music21 • Synthesizer • Docker • GKE (Kubernetes)
 - **Features:** Real-time melody & harmony orchestration, automated music theory validation, multi-tab operational monitoring, and professional WAV/MIDI export capabilities.
 
-### 🌟 [Celebrity Recognition & QA AI System (ViT, Groq LLaMA-4, Streamlit)](https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/)
+#### 🌟 [Celebrity Recognition & QA AI System (ViT, Groq LLaMA-4)](https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/)
 A state-of-the-art multimodal AI application combining computer vision for real-time identity detection with Large Language Models for context-aware celebrity Q&A.
 - **Tech**: Python • Streamlit • OpenCV • Vision Transformer (ViT) • Groq LLaMA-4 Vision • Docker • Kubernetes (GKE)
 - **Features**: Real-time biometric recognition • 128-d vector embeddings • Multimodal contextual reasoning • Low-latency inference • Microservices architecture

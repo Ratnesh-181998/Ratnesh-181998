@@ -203,7 +203,7 @@ A next-generation Agentic AI system that uses the Model Context Protocol (MCP) t
 - **Tech:** MCP Server/Client • Llama 3 (Groq LPU) • LangChain • Streamlit • Open-Meteo • WebRTC
 - **Features:** Universal tool protocol implementation, multi-modal voice interaction, sub-second reasoning, robust NLP city extraction, and interactive architectural visualization.
 
-#### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
+### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration
 - **Features:** Automated itinerary generation, budget optimization, personalized recommendations

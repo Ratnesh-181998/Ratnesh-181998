@@ -336,20 +336,6 @@ End-to-end big data pipeline with orchestration
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnesh-181998&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=4FACFE&text_color=E6EDF3)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh-181998&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3)
-   -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
-  
-</div>
-
----
-
 ## � Technical Social Profiles
 
 <div>
@@ -389,29 +375,6 @@ End-to-end big data pipeline with orchestration
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ratnesh-kumars-projects-ad9ae7f2)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/docs/guides/database/connecting-to-postgres)
 
-</div>
-
----
-<!-- 
-## �🏆 GitHub Trophies
-
-<div align="center">
-  
-  <!--[Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
-  <!-- Trophies (Temporarily disabled due to service outage)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
-  -->
-   <!-- Trophies (Temporarily disabled due to service outage)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
-  --></div> 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=4FACFE&point=E6EDF3)
-  
 </div>
 
 ---
@@ -480,6 +443,45 @@ print(me.get_status())
 - [ ] Build and deploy 75+ production-ready AI applications
 - [ ] Mentor 50+ aspiring AI/ML engineers
 - [ ] Master advanced LLM architectures and deployment
+
+
+---
+<!-- 
+## �🏆 GitHub Trophies
+
+<div align="center">
+  
+  <!--[Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  <!-- Trophies (Temporarily disabled due to service outage)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  -->
+   <!-- Trophies (Temporarily disabled due to service outage)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
+  --></div> 
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ratnesh-181998&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=4FACFE&text_color=E6EDF3)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh-181998&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3)
+   -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
+  
+</div>  
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=4FACFE&point=E6EDF3)
+  
+</div>
+
 
 ---
 

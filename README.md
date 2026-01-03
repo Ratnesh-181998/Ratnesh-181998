@@ -202,7 +202,12 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 A next-generation Agentic AI system that uses the Model Context Protocol (MCP) to standardize tool usage, enabling Llama 3 to fetch real-time global weather data with sub-second latency and zero hallucinations.
 - **Tech:** MCP Server/Client • Llama 3 (Groq LPU) • LangChain • Streamlit • Open-Meteo • WebRTC
 - **Features:** Universal tool protocol implementation, multi-modal voice interaction, sub-second reasoning, robust NLP city extraction, and interactive architectural visualization.
-
+  
+### ✈️ [Agentic AI Travel Planner & Itinerary Generator (LangChain, Groq, Kubernetes)](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/)
+A production-grade Agentic Generative AI application that leverages autonomous AI agents to research, plan, and generate hyper-personalized travel itineraries with zero hallucinations.
+- **Tech:** Groq LPU (Llama-3) • LangChain • Streamlit • Docker • Kubernetes • ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Features:** Autonomous reasoning workflows, sub-second itinerary generation, interactive premium UI, full LLMOps monitoring pipeline, and cloud-native microservices architecture.
+  
 #### 🧳 [Agentic AI Trip Planner (CrewAI)](https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/)
 Multi-agent AI system for intelligent travel planning using CrewAI framework
 - **Tech:** CrewAI • LangChain • Multi-Agent Orchestration

@@ -402,20 +402,6 @@ End-to-end big data pipeline with orchestration
 
 ---
 
-## 📬 Let's Connect
-
-<div>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratneshcsit2021gate@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rat)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
-  
-</div>
-
----
-
 ## 💡 Current Focus
 
 ```python
@@ -444,20 +430,21 @@ print(me.get_status())
 - [ ] Mentor 50+ aspiring AI/ML engineers
 - [ ] Master advanced LLM architectures and deployment
 
-
----
-<!-- 
-## �🏆 GitHub Trophies
-
-<div align="center">
   
-  <!--[Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
-  <!-- Trophies (Temporarily disabled due to service outage)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
-  -->
-   <!-- Trophies (Temporarily disabled due to service outage)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ratnesh-181998&theme=radical&no-frame=true&no-bg=true)
-  --></div> 
+---
+
+## 📬 Let's Connect
+
+<div>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratneshcsit2021gate@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rat)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
+  
+</div>
+
 
 ---
 
@@ -472,6 +459,7 @@ print(me.get_status())
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
   
 </div>  
+
 ---
 
 ## 📈 Contribution Graph
@@ -495,7 +483,7 @@ print(me.get_status())
 
 
 
- ---
+---
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">

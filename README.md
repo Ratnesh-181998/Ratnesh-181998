@@ -9,8 +9,8 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
   [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
   [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RattuDa98)
-  [![Resume](https://img.shields.io/badge/Social_Profiles-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles)
-  [![GenAI](https://img.shields.io/badge/AgentiC_AI_&_GenAI-F97316?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work)
+  [![Social Profiles](https://img.shields.io/badge/Social_Profiles-1E293B?style=for-the-badge&logo=readthedocs&logoColor=38BDF8)](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles)
+  [![Agentic AI & GenAI](https://img.shields.io/badge/Agentic_AI_&_GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=FBBF24)](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work)
 
 </div>
 

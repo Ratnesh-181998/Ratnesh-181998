@@ -13,7 +13,9 @@
   [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RattuDa98)
   [![Social Profiles](https://img.shields.io/badge/Social_Profiles-1E293B?style=for-the-badge&logo=readthedocs&logoColor=38BDF8)](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles)
   [![Agentic AI & GenAI](https://img.shields.io/badge/Agentic_AI_&_GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=FBBF24)](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work)
-
+  [![Woolf University](https://img.shields.io/badge/Woolf_University-4A90E2?style=for-the-badge&logo=university&logoColor=white)](https://woolf.university/id/3625948911)
+  [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
+  
 </div>
 
 ---

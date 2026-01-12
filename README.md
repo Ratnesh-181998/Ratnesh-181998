@@ -18,6 +18,8 @@
   [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
 [![MCP](https://img.shields.io/badge/MCP-22C55E?style=for-the-badge&logo=github&logoColor=white)
   [![MCP Bootcamp](https://img.shields.io/badge/MCP_Bootcamp-6366F1?style=for-the-badge&logo=google&logoColor=white)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
+  [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/Build_Agentic_AI_&_GenAI_with_MCP-8B5CF6?style=for-the-badge&logo=openai&logoColor=FBBF24)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
+
   
 </div>
 

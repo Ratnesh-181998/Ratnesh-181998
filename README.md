@@ -461,7 +461,7 @@ print(me.get_status())
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Streak
 
 <div align="center">
   
@@ -469,8 +469,8 @@ print(me.get_status())
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh-181998&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=E6EDF3)
    -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
-  
+   <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
+    -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4" width="48%" />
 
   

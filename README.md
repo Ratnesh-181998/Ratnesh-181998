@@ -471,6 +471,9 @@ print(me.get_status())
    -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=4FACFE)
   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4" width="48%" />
+
+  
 </div>  
 
 ---

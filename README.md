@@ -3,9 +3,7 @@
   
   **Data Scientist | AI/ML Engineer | GeN AI | Agentic AI Specialist**
   
-  🇮🇳 India ![India](https://img.shields.io/badge/India-🇮🇳-FF9933?style=for-the-badge)
-![USA](https://img.shields.io/badge/USA-🇺🇸-3C3B6E?style=for-the-badge)
-| 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
+  🇮🇳 India | 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)

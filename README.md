@@ -136,7 +136,7 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
 
 
-### ☁️ CLOUD (AZURE GCP AWS ) Services
+### ☁️ CLOUD (AZURE,GCP ,AWS ) Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Core:** S3 • EC2 • Lambda • IAM • CloudWatch  

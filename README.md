@@ -57,56 +57,13 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 📊 Big Data & Streaming
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
+### 🤖 Agentic AI & Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
-### 📈 Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![QlikSense](https://img.shields.io/badge/QlikSense-009848?style=for-the-badge&logo=qlik&logoColor=white)
+**Frameworks:** LangChain • LangGraph • LangFlow • CrewAI • PhiData (Agno) • OpenAI Agents SDK • Autogen • LlamaIndex • MCP (Client/Server) • LangSmith
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### 🤖 Machine Learning & AI
-**Supervised Learning:**  
-Linear Regression • Logistic Regression • Decision Trees • Random Forest • SVM • Naive Bayes • k-NN • Gradient Boosting • XGBoost • LightGBM
-
-**Unsupervised Learning:**  
-k-Means • Hierarchical Clustering • DBSCAN • PCA • t-SNE • Autoencoders • GMM
-
-**Other ML:**  
-Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendation Systems
-
-### 🧠 Deep Learning & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Architectures:** • Transformers • CNN • RNN • LSTM • GANs • YOLOv8 • R-CNN  
-**Applications:** • OCR • Object Detection • Classification • Segmentation
-
-### 💬 Natural Language Processing
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-0080FF?style=for-the-badge&logo=gensim&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=bert&logoColor=white)
+**Capabilities:** Tool Calling • Memory Systems • Multi-Agent Workflows • Agent Orchestration • FastAPI Integrations
 
 ### 🚀 Generative AI & LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -124,17 +81,61 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
+### 🗄️SQL and NOSQL Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
 **Capabilities:** Embedding Models (OpenAI, HF, BGE, E5) • Hybrid Search (BM25 + Vector) • Reranking (Cohere/BGE) • Chunking Strategies
 
-### 🤖 Agentic AI & Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+### 💬 Natural Language Processing
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-0080FF?style=for-the-badge&logo=gensim&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=bert&logoColor=white)
 
-**Frameworks:** LangChain • LangGraph • LangFlow • CrewAI • PhiData (Agno) • OpenAI Agents SDK • Autogen • LlamaIndex • MCP (Client/Server) • LangSmith
+### 🧠 Deep Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Capabilities:** Tool Calling • Memory Systems • Multi-Agent Workflows • Agent Orchestration • FastAPI Integrations
+**Architectures:** • Transformers • CNN • RNN • LSTM • GANs • YOLOv8 • R-CNN  
+**Applications:** • OCR • Object Detection • Classification • Segmentation
 
-### ☁️ AWS Services
+### 🤖 Machine Learning & AI
+**Supervised Learning:**  
+Linear Regression • Logistic Regression • Decision Trees • Random Forest • SVM • Naive Bayes • k-NN • Gradient Boosting • XGBoost • LightGBM
+
+**Unsupervised Learning:**  
+k-Means • Hierarchical Clustering • DBSCAN • PCA • t-SNE • Autoencoders • GMM
+
+**Other ML:**  
+Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendation Systems
+
+### 📈 Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![QlikSense](https://img.shields.io/badge/QlikSense-009848?style=for-the-badge&logo=qlik&logoColor=white)
+
+### 📊 Big Data & Streaming
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
+
+
+### ☁️ CLOUD (AZURE GCP AWS ) Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Core:** S3 • EC2 • Lambda • IAM • CloudWatch  

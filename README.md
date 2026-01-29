@@ -43,7 +43,7 @@
 
 ---
 
-## ⚡ Technical Skillset
+## [⚡ Technical Skillset](https://github.com/Ratnesh-181998/Technical-Skillset)
 
 ### � Core Fundamentals
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)

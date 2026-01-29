@@ -85,13 +85,13 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
+**Capabilities:** Embedding Models (OpenAI, HF, BGE, E5) • Hybrid Search (BM25 + Vector) • Reranking (Cohere/BGE) • Chunking Strategies
+
 ### 🗄️SQL and NOSQL Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-**Capabilities:** Embedding Models (OpenAI, HF, BGE, E5) • Hybrid Search (BM25 + Vector) • Reranking (Cohere/BGE) • Chunking Strategies
 
 ### 💬 Natural Language Processing
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white)

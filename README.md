@@ -25,7 +25,8 @@
  [![Agentic BI NLP-Q](https://img.shields.io/badge/AGENTIC_BI_%26_NLP_QUERYING-0891b2?style=for-the-badge)](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying)
 [![Python AI/ML Libraries](https://img.shields.io/badge/AI_%26_ML_LIBRARIES-0052cc?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)
 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-9333ea?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)
-- 🧠⚙️ **Agentic GenAI Frameworks (MCP & VectorDB) 👉 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-0ea5e9?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)**
+- 🧠⚙️ **Agentic GenAI Frameworks (MCP & VectorDB) 👉 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)**
+
 
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 

@@ -25,6 +25,7 @@
  [![Agentic BI NLP-Q](https://img.shields.io/badge/AGENTIC_BI_%26_NATURAL_LANGUAGE_QUERYING-0891b2?style=for-the-badge)](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying)
 [![Python AI/ML Libraries](https://img.shields.io/badge/PYTHON_AI_%26_ML_LIBRARIES-8b5cf6?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)
 
+
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 
 </div>

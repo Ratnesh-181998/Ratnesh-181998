@@ -18,12 +18,9 @@
   [![Agentic AI & GenAI](https://img.shields.io/badge/Agentic_AI_&_GenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=FBBF24)](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work)
   [![MCP](https://img.shields.io/badge/MCP-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
  [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/BUILD_AGENTIC_AI_%26_GENAI_WITH_MCP-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
-[![Production Ready MLOps](https://img.shields.io/badge/PRODUCTION_READY_MLOPS_PIPELINES-22c55e?style=for-the-badge)](https://github.com/Ratnesh-181998/Production-Ready-MLOps-Pipelines)
 [![Production Ready MLOps](https://img.shields.io/badge/PRODUCTION_READY_MLOPS_PIPELINES-334155?style=for-the-badge)](https://github.com/Ratnesh-181998/Production-Ready-MLOps-Pipelines)
-
  [![COMPUTER Vision AI & GenAI](https://img.shields.io/badge/COMPUTER_VISION_AI_%26_GENAI-ec4899?style=for-the-badge)](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning-Stack)
  [![Advance NLP & Generative AI](https://img.shields.io/badge/ADVANCE_NLP_%26_GENERATIVE_AI-92400e?style=for-the-badge)](https://github.com/Ratnesh-181998/advance-nlp-generative-ai)
-
  [![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-0f766e?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)
  [![Agentic BI NLP-Q](https://img.shields.io/badge/AGENTIC_BI_%26_NLP_QUERYING-0891b2?style=for-the-badge)](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying)
 [![Python AI/ML Libraries](https://img.shields.io/badge/AI_%26_ML_LIBRARIES-0052cc?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)

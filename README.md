@@ -13,6 +13,7 @@
   [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/RattuDa98)
   [![Social Profiles](https://img.shields.io/badge/Social_Profiles-1E293B?style=for-the-badge&logo=readthedocs&logoColor=38BDF8)](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles)
   [![Woolf University](https://img.shields.io/badge/MS_In_AI%26ML_Woolf_University-0f766e?style=for-the-badge)](https://woolf.university/id/3625948911)
+  [![Woolf University](https://img.shields.io/badge/MS_Degree_AI%2FML_Woolf_University-059669?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)
   [![Woolf University](https://img.shields.io/badge/MS_In_AI%26ML_Woolf_University-f59e0b?style=for-the-badge)](https://woolf.university/id/3625948911)
 
   [![Woolf University](https://img.shields.io/badge/Woolf_University-0A66C2?style=for-the-badge)](https://woolf.university/)

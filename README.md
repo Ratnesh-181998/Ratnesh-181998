@@ -268,7 +268,12 @@ Production-grade generative AI orchestration studio that transforms natural lang
 A state-of-the-art multimodal AI application combining computer vision for real-time identity detection with Large Language Models for context-aware celebrity Q&A.
 - **Tech**: Python • Streamlit • OpenCV • Vision Transformer (ViT) • Groq LLaMA-4 Vision • Docker • Kubernetes (GKE)
 - **Features**: Real-time biometric recognition • 128-d vector embeddings • Multimodal contextual reasoning • Low-latency inference • Microservices architecture
-  
+
+#### 📊 [Agentic BI SaaS: Natural Language Analytics Platform (LangGraph, FAISS, Groq, VectrDb,MCP,FastAPI,SQL,NLP)](https://agentic-bi-natural-language-querying-xav6gvp2wxnpnn7q9caarf.streamlit.app/)
+A production-grade Business Intelligence platform that replaces static dashboards with conversational analytics. Uses a 6-agent cognitive swarm orchestrated by LangGraph to transform natural language questions into real-time SQL queries, visualizations, and insights with enterprise-level governance.
+- ** Tech:** LangGraph • LangChain • Groq (Llama 3.3) • HuggingFace • FAISS • FuzzyWuzzy • FastAPI • Streamlit • Plotly • SQLAlchemy • Mem0 • MCP • Docker • Git LFS
+- **Features:** Self-healing SQL generation with reflexion loops, typo-resilient query processing, FAISS-powered semantic search, real-time agent transparency logs, RBAC governance with PII detection, long-term user preference memory, and production-ready SaaS/On-Prem deployment architecture.
+
 #### 📰 [FlipItNews - NLP Classifier](https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/)
 Real-time news classification using advanced NLP techniques
 - **Tech:** BERT • Transformers • NLP • Classification

@@ -43,7 +43,7 @@
 
 ### 🌟 Key Highlights
 
-- Experience across diverse **AI/ML algorithms: LR, SVM, Decision Trees, Random Forest, XGBoost, and Deep Learning models (CNN, RNN, GANs, Transformers, YOLOv8)**
+- Experience across diverse **AI/ML algorithms: LR, SVM, Decision Trees, Random Forest, XGBoost, and Deep Learning models (CNN, RNN, GANs, Transformers, YOLOv26)**
 - Expertise in **Computer Vision, NLP, Text Analytics,Generative AI ,Agentic AI systems**, and business value analysis  
 - Hands-on background in **algorithm design, model evaluation, error analysis, and performance optimization** 
 - Successfully handled **petabyte-scale (1PB+) data** in real-world production environments
@@ -111,7 +111,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Architectures:** • Transformers • CNN • RNN • LSTM • GANs • YOLOv8 • R-CNN  
+**Architectures:** • Transformers • CNN • RNN • LSTM • GANs • YOLOv26 • R-CNN  
 **Applications:** • OCR • Object Detection • Classification • Segmentation
 
 ### 🤖 Machine Learning & AI

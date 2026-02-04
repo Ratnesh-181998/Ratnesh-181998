@@ -33,6 +33,7 @@
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-FF5F1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-84CC16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
+[![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-F43F5E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 
 ---
 

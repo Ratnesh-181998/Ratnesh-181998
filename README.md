@@ -36,7 +36,7 @@
 
 🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning , Deep Learning , Computer Vision , NLP , Generative AI and Agentic AI solutions at scale**. 
 - 📊 Handling **1PB+ large datasets** and developing real-time data pipelines
-- 🚀 Delivering **production-grade AI/ML/DL/CV/NLP/GenAI/Agentic AI systems** across cloud(AWS,AZURE,GCP) environments
+- 🚀 Delivering **production-grade AI/ML/DL/CV/NLP/GenAI/Agentic AI systems** across cloud ( AWS,AZURE,GCP ) environments
 - 🤖 Building **GenAI LLM-based chatbots**, vector search systems, and secure, scalable enterprise applications
 - 🔧 API development & integration, automation, and data engineering workflows
 - 📈 Breaking down complex problems, optimizing model performance, and driving measurable business outcomes

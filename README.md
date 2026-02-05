@@ -34,7 +34,7 @@
 
 ---
 
-🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning and Generative AI / Agentic AI solutions at scale**. 
+🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning ,Deep Learning ,Computer Vision ,NLP ,Generative AI and Agentic AI solutions at scale**. 
 - 📊 Handling **1PB+ large datasets** and developing real-time data pipelines
 - 🚀 Delivering **production-grade AI/ML/GenAI/Agentic AI systems** across cloud environments
 - 🤖 Building **GenAI LLM-based chatbots**, vector search systems, and secure, scalable enterprise applications

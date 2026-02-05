@@ -3,7 +3,7 @@
   
   **Data Scientist | AI/ML Engineer | GeN AI | Agentic AI Specialist**
   
-  [📍Delhi , DL , INDIA](https://yometro.com/from-terminal-1-igi-airport-metro-station-delhi-to-rk-puram-metro-station-delhi) |📍SanFrancisco , CA , USA | 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
+  📍[Delhi , DL , INDIA](https://yometro.com/from-terminal-1-igi-airport-metro-station-delhi-to-rk-puram-metro-station-delhi) |📍[SanFrancisco , CA , USA ]((https://www.google.com/maps?sca_esv=6b1d8f50b92f85a4&sxsrf=AE3TifPQ7XE3vDet2pOVwjeibceYUiK9nQ:1764930305214&kgmid=/g/11j_00qqb_&shndl=30&shem=damc,lcuae,uaasie,shrtsdl&kgs=35af57b442bb2fb6&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=Ke-TVu4-gYWAMaN7si2tSauB&daddr=548+Market+St+PMB+78990,+San+Francisco,+CA+94104,+United+States))| 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
   
 </div>
 

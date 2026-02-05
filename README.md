@@ -3,7 +3,7 @@
   
   **Data Scientist | AI/ML Engineer | GeN AI | Agentic AI Specialist**
   
-  📍Delhi , India OR📍SanFrancisco,CA,USA | 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
+  📍Delhi , DL , INDIA |📍SanFrancisco , CA , USA | 💼 4+ Years Experience | 🚀 Building Production-Grade AI/ML Systems
   
 </div>
 

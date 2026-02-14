@@ -1,4 +1,6 @@
 # 👋 Hi there , I'm Ratnesh Kumar Singh 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ---
 
 #### 📊 GitHub Statistics & Streak <img align="right" src="https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blue&style=for-the-badge" />
@@ -10,6 +12,8 @@
 width="48%"/>
 </div>  
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ---
 
 <div align="center">
@@ -20,6 +24,7 @@ width="48%"/>
   
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
@@ -45,6 +50,7 @@ width="48%"/>
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 ---
 
 🔬 **Data Scientist (AI/ML Engineer)** skilled in building, deploying, and optimizing **end-to-end Machine Learning , Deep Learning , Computer Vision , NLP , Generative AI and Agentic AI solutions at scale**. 

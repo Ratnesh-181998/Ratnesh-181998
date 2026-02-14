@@ -2,7 +2,7 @@
 
 ---
 
-### 📊 GitHub Statistics & Streak 
+#### 📊 GitHub Statistics & Streak 
 
 <div align="center">
 

@@ -1,4 +1,19 @@
 ## 👋 Hi there , I'm Ratnesh Kumar Singh <img align="right" src="https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blue&style=for-the-badge" />
+
+---
+
+## 📊 GitHub Statistics & Streak 
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4"
+  alt="GitHub Streak Stats"
+width="48%"/>
+
+</div>  
+
+---
+
 <div align="center">
   
   **Data Scientist | AI/ML Engineer | CV | NLP | GeN AI | Agentic AI Specialist**

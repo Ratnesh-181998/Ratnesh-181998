@@ -1,8 +1,8 @@
-# 👋 Hi there , I'm Ratnesh Kumar Singh <img align="right" src="https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blue&style=for-the-badge" />
-
+# 👋 Hi there , I'm Ratnesh Kumar Singh 
 ---
 
-#### 📊 GitHub Statistics & Streak 
+#### 📊 GitHub Statistics & Streak <img align="right" src="https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blue&style=for-the-badge" />
+
 <div align="center">
 <img 
   src="https://streak-stats.demolab.com?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4"

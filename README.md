@@ -69,7 +69,7 @@ width="48%"/>
 - Successfully handled **petabyte-scale (1PB+) data** in real-world production environments
 - Deployed **ML / DL / CV / NLP / GenAI /Agentic AI models into production** in close collaboration with engineering teams
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # [⚡ Technical Skillset](https://github.com/Ratnesh-181998/Technical-Skillset)
 
@@ -195,7 +195,8 @@ Reinforcement Learning • Time Series (ARIMA, SARIMA, Prophet) • Recommendati
 
 Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ## 🎓 Education
 
 | Duration | Institute | Degree & Specialization | GPA / CGPA | Links |
@@ -203,11 +204,11 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | **Aug 2022 - 2024** | **Woolf University** | **Master of Science (MS)**<br>Computer Science: Artificial intelligence and Machine Learning | **4.0 / 4.0 GPA** | [College](https://woolf.university) \| [Degree](https://woolf.university/id/3625948911) \| [Academic institution](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/MS%20in%20AI%20and%20ML%20Degree%20-By%20Woolf%20%20University) |
 | **Jul 2016 - 2020** | **Guru Nanak Dev Engineering College** | **Bachelor of Technology (B.Tech)**<br>Information Technology | **7.34 / 10.0 CGPA** | [College](https://gndec.ac.in) \| [Degree](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/B.Tech%20Degree-%20GNDEC) |
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
 
----
 ## 🗺️ Full Stack Data Scientist (AI/ML/Gen AI/Agentic AI Engineer)
 
 | Section | Topics | Sub-Topics | Sub Topics In Details | Live Project Details (Use Cases), Tech Stack & Links |
@@ -221,7 +222,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | **G** | **Competitive Programming** | 1. Algorithms<br>2. Data Structures | **1. Problem‑solving frameworks**<br>• Understand constraints, optimize time/space complexity (Big O).<br>• **Techniques:** Two Pointers, Sliding Window, Bit Manipulation, Recursion.<br><br>**2. Algorithms**<br>• **Core:** Sorting (Merge/Quick), Searching (Binary Search).<br>• **Advanced:** Dynamic Programming (DP), Greedy, Backtracking, Graph Algorithms (BFS/DFS, Dijkstra).<br><br>**3. Data Structures**<br>• **Linear:** Arrays, Linked Lists, Stacks, Queues, Hash Maps.<br>• **Trees & Graphs:** Binary Trees, BST, Heaps, Tries, Disjoint Sets.| **•Algorithms-and-Data-Structures**<br>&nbsp;&nbsp;**Note -(Including all coding plateform's 5000+ Problems/Questions solved )**• [[Details]](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)<br><br>  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ratnesh_1998/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rattudacsit20211) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ratnesh_181998) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ratnesh_181998) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ratnesh1998) [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ratnesh138/) [![InterviewBit](https://img.shields.io/badge/InterviewBit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/)|
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 🚀 Featured Projects & Live Demos
 
@@ -379,7 +380,7 @@ End-to-end big data pipeline with orchestration
 - **Tech:** Airflow • Kafka • Spark • Cassandra • Docker
 - **Features:** Automated workflows, distributed processing, scalable architecture
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## � Technical Social Profiles
 
@@ -422,7 +423,7 @@ End-to-end big data pipeline with orchestration
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 💼 Professional Experience
 
@@ -436,7 +437,7 @@ End-to-end big data pipeline with orchestration
 - Mentored students in AI/ML projects and research
 - Created educational content for Computer Vision courses
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 📜 Certifications & Awards
 
@@ -445,7 +446,7 @@ End-to-end big data pipeline with orchestration
 - 🏅 **Computer Vision Nanodegree** - Udacity
 - 🎖️ **Best AI Project Award** - University Hackathon 2024
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 💡 Current Focus
 
@@ -465,7 +466,7 @@ me = CurrentFocus()
 print(me.get_status())
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 🎯 2025-2026 Goals
 
@@ -476,7 +477,7 @@ print(me.get_status())
 - [ ] Master advanced LLM architectures and deployment
 
   
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 📬 Let's Connect
 
@@ -491,7 +492,7 @@ print(me.get_status())
 </div>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 📊 GitHub Statistics & Streak
 
@@ -519,7 +520,7 @@ width="48%"/>
   
 </div>  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 📈 Contribution Graph
 
@@ -530,7 +531,7 @@ width="48%"/>
 </div>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
   
@@ -542,7 +543,7 @@ width="48%"/>
 
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">

@@ -414,12 +414,16 @@ End-to-end big data pipeline with orchestration
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ratnesh138/)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/)
 
+  <!--
+
 ### 🎓 Learning Platforms
 [![Woolf University](https://img.shields.io/badge/Woolf_University-4A90E2?style=for-the-badge&logo=university&logoColor=white)](https://woolf.university/id/3625948911)
 [![GNDEC](https://img.shields.io/badge/GNDEC-1E40AF?style=for-the-badge&logo=graduationcap&logoColor=white)](https://www.gndec.ac.in/)
 [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 [![Krish Naik](https://img.shields.io/badge/Krish_Naik_Live_Classes-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.krishnaik.in/liveclasses)
 [![GrowDataSkills](https://img.shields.io/badge/GrowDataSkills-22C55E?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.growdataskills.com/)
+
+-->
 
 ### ☁️ Cloud Platforms
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)

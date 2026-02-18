@@ -85,7 +85,7 @@ width="48%"/>
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/Ratnesh-181998/PySpark)
 ![Shell](https://img.shields.io/badge/LINUX_Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🤖 Agentic AI & Frameworks

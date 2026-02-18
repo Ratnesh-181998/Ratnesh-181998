@@ -11,6 +11,11 @@
 width="48%"/>
 </div>  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratnesh-181998&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical" />
+</p>
+
 <div align="center">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Ratnesh+Kumar+Singh;Data+Scientist+%7C+AI%2FML+Engineer;4%2B+Years+Building+Production+AI+Systems" alt="Typing SVG" />

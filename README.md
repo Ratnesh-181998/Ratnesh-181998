@@ -54,10 +54,6 @@ width="48%"/>
 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-312e81?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-14B8A6?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
-[![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-FF2D55?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
-[![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-FF2D55?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
-[![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-22D3EE?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
-[![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-2DD4BF?style=for-the-badge&logo=bookstack&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 [![AI Stack Comparison AWS Azure GCP](https://img.shields.io/badge/AI_STACK_COMPARISON_AWS_vs_AZURE_vs_GCP-d946ef?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/Ratnesh-181998/AI-STACK-COMPARISON-AWS-AZURE-GCP)
 

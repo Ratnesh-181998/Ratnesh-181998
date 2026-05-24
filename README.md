@@ -221,7 +221,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 | :--- | :--- | :--- |:--- |
 | **May 2022 - 2024** | **SCALER Bengaluru Karnataka INDIA** | **DSML**<br>Data Science & Machine Learning | [Website](https://www.scaler.com/academy/profile/16d9756ebf65/) \| [Academic institution](https://github.com/Ratnesh-181998/DSML)|
 | **Feb 2018 - 2020** | **MADE EASY DELHI INDIA** | **GATE EXAM**<br>Computer Science & Information Technology | [Website](https://www.madeeasy.in/) \| [Academic institution](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)|
-| **March 2013 - 2016** | **RESONANCE KOTA Rajasthan INDIA** | **JEE EXAM**<br>PHYSICS,CHEMISTRY,MATHEMATICS| [Website](https://www.resonance.ac.in/) \|[Academic institution](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
+| **Mar 2013 - 2016** | **RESONANCE KOTA Rajasthan INDIA** | **JEE EXAM**<br>PHYSICS,CHEMISTRY,MATHEMATICS| [Website](https://www.resonance.ac.in/) \|[Academic institution](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 

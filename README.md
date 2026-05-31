@@ -209,7 +209,7 @@ Developed and integrated **RESTful APIs** using FastAPI and FlaskAPI
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-## 🎓 Education
+## 🎓 Educational Degree's 
 
 | Duration | Institute | Degree & Specialization | GPA / CGPA | Links |
 | :--- | :--- | :--- | :--- | :--- |

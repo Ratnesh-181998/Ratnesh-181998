@@ -51,6 +51,7 @@ width="48%"/>
 [![COMPUTER Vision AI & GenAI](https://img.shields.io/badge/COMPUTER_VISION_AI_%26_GENAI-ec4899?style=for-the-badge)](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning-Stack)
 [![Advance NLP & Generative AI](https://img.shields.io/badge/ADVANCE_NLP_%26_GENERATIVE_AI-92400e?style=for-the-badge)](https://github.com/Ratnesh-181998/advance-nlp-generative-ai)
 [![Agent Memory](https://img.shields.io/badge/AGENT_MEMORY_SYSTEMS-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998/Agent-Memory)
+[![Agentic Memory](https://img.shields.io/badge/AGENTIC_MEMORY_(SHORT·LONG·EPISODIC)-10B981?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998/Agent-Memory)
 [![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-0f766e?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)
 [![Agentic BI NLP-Q](https://img.shields.io/badge/AGENTIC_BI_%26_NLP_QUERYING-0891b2?style=for-the-badge)](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying)
 [![Python AI/ML Libraries](https://img.shields.io/badge/AI_%26_ML_LIBRARIES-0052cc?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)

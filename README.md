@@ -59,6 +59,7 @@ width="48%"/>
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 [![MADE EASY(DELHI|INDIA)GATE CS IT 2019](https://img.shields.io/badge/GATE_2019_COMPUTER_SCIENCE_%26_IT_(MADE_EASY_DELHI_INDIA)-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
 [![Claude Course](https://img.shields.io/badge/CLAUDE_COURSE-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Ratnesh-181998/Claude-Course)
+[![Gemini CLI](https://img.shields.io/badge/GEMINI_CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://github.com/Ratnesh-181998/Gemini-CLI)
 [![RESONANCE(KOTA Rajasthan|INDIA)JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_11th_%26_12th_(RESONANCE_KOTA_Rajasthan_INDIA)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 [![AI Stack Comparison AWS Azure GCP](https://img.shields.io/badge/AI_STACK_COMPARISON_AWS_vs_AZURE_vs_GCP-d946ef?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/Ratnesh-181998/AI-STACK-COMPARISON-AWS-AZURE-GCP)

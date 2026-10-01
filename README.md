@@ -556,6 +556,9 @@ width="48%"/>
   
 </div>
 
+![Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=4FACFE&point=E6EDF3)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
